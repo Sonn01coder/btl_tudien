@@ -1,0 +1,6 @@
+school	 trường học
+class	lớp học
+university	trường đại học
+technology	công nghệ
+computer	máy tính
+table	bàn
